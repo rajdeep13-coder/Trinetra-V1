@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+google-generativeai>=0.3.0
+datasketch
+python-dotenv
+PyMuPDF
+pytesseract
+Pillow
+opencv-python
+pywavelets
